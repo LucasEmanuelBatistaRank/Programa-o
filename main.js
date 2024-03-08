@@ -1,0 +1,1 @@
+const botoes = querySelectorAll(". botao");
